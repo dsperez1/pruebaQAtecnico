@@ -77,15 +77,17 @@ Este proyecto contiene pruebas automatizadas para una aplicación web, utilizand
 
 
 2. Instala las dependencias:
-```
+```bash
 npm install
 ```
-Abre Cypress en modo interactivo:
-```
+3. Abre Cypress en modo interactivo:
+
+```bash
 npx cypress open
 ```
-Ejecuta pruebas en modo headless (CLI):
-```
+
+4. Ejecuta pruebas en modo headless (CLI):
+```bash
 npx cypress run
 ```
 
