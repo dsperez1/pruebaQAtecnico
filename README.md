@@ -70,8 +70,8 @@ Este proyecto contiene pruebas automatizadas para una aplicación web, utilizand
 
 1. Clona el repositorio:
 ```bash
-git clone <URL-del-repo>
-cd <nombre-del-proyecto>
+git clone <[URL-del-repo](https://github.com/dsperez1/pruebaQAtecnico.git)>
+cd <pruebaQAtecnico>
 ```
 2. Instala las dependencias:
 
