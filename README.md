@@ -65,7 +65,6 @@ Este proyecto contiene pruebas automatizadas para una aplicación web, utilizand
 - Evita duplicación.
 - Hace que las pruebas sean más escalables y reutilizables.
 
----
 
 ## ▶️ Cómo Ejecutar el Proyecto
 
