@@ -76,7 +76,7 @@ Este proyecto contiene pruebas automatizadas para una aplicación web, utilizand
 ```
 
 
-Instala las dependencias:
+2. Instala las dependencias:
 ```
 npm install
 ```
