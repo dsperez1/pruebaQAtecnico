@@ -69,13 +69,12 @@ Este proyecto contiene pruebas automatizadas para una aplicación web, utilizand
 ## ▶️ Cómo Ejecutar el Proyecto
 
 1. Clona el repositorio:
-   ```bash
-   git clone <URL-del-repo>
-   cd <nombre-del-proyecto>
+```bash
+git clone <URL-del-repo>
+cd <nombre-del-proyecto>
 ```
-
-
 2. Instala las dependencias:
+
 ```bash
 npm install
 ```
